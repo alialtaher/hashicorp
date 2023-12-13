@@ -35,7 +35,7 @@ If a particular provider already has a selection recorded in the lock file, Terr
 re-select that version for installation, even if a newer version has become available.
 
 EXAMPLE: 
-change the version in the main file from 5.30 to 5.20 and run terraform init: 
+change the version in the main file from 5.30 to 5.20 and run terraform init:  
 
 Initializing the backend...
 
