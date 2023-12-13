@@ -6,7 +6,7 @@ in both the terraform plan and terraform apply commands.
 
 The terraform refresh command is deprecated in newer version of terraform.
 The -refresh-only option for terraform plan and terraform apply was introduced in Terraform v0.15.4.
-
+ 
 EXAMPLE: 
 */
 
