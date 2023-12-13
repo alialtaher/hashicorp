@@ -28,7 +28,7 @@ provider "digitalocean" {
     token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
 
-### IMPLICIT declaration for the maintainer of aws "official"
+### IMPLICIT declaration for the maintainer of aws "official" 
 provider "aws" {
     region = "us-east-1"
 }
