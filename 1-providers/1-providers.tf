@@ -29,11 +29,11 @@ should now work.
 
 If you ever set or change modules or backend configuration for Terraform,
 rerun this command to reinitialize your working directory. If you forget, other
-commands will detect it and remind you to do so if necessary.
+commands will detect it and remind you to do so if necessary.   
 
 */
 
-
+  
 /*
 IMPORTANT NOTES ABOUT terraform init
 1- it writes provider selections into a file called .terraform.lock.hcl that must be included in the VCS operations in order to work with the same versions
