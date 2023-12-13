@@ -1,6 +1,6 @@
 #Resource block describes one or more infrastructure objects
 provider "aws" {
-  # provider configuration scope
+  # provider configuration scope 
   region = "us-east-1"
 }
 
